@@ -162,7 +162,7 @@ compinit
 # End of lines added by compinstall
 
 # Alias thefuck
-#eval $(thefuck --alias)
+eval $(thefuck --alias)
 
 # Run neofetch on start
 clear
